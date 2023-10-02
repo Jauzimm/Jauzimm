@@ -1,25 +1,21 @@
-### Hi there 👋
 
-<!--
-**Jauzimm/Jauzimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    Hello! Welcome to my github page 👋
+</h1>
+<h3>
+<li>📚 I’m software engineering student at Universidade de Brasilia (UnB - Gama)</li>
+<li>👨‍💻A passionate programmer from Brazil, doing your best everyday!</li>
+</h3><br/>
+ 
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div><br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <a href="https://github.com/Jauzimm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jauzimm&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jauzimm&layout=compact&langs_count=7&theme=react"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jauzimm&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jauzimm&layout=compact&langs_count=7&theme=react"/>
 </div>
-
-## Yummy yummy... Contributions 😋
-![snake gif](https://github.com/Jauzimm/Jauzimm/blob/output/github-contribution-grid-snake.svg)
