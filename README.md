@@ -21,4 +21,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jauzimm&layout=compact&langs_count=7&theme=react"/>
 </div>
 
+## Yummy yummy... Contributions 😋
 ![snake gif](https://github.com/Jauzimm/Jauzimm/blob/output/github-contribution-grid-snake.svg)
