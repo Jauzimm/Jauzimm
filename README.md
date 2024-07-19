@@ -4,7 +4,7 @@
 </h1>
 <h3>
 <li>📚 I’m software engineering student at Universidade de Brasilia (UnB - Gama)</li>
-<li>👨‍💻A passionate programmer from Brazil, doing your best everyday!</li>
+<li>👨‍💻A programmer from Brazil, doing your best everyday!</li>
 </h3>
 
 ## Programming languages ​​that I know
